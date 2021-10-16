@@ -11,6 +11,10 @@ export default {
     name: "Message",
     props: {
         msg: String
+    },
+    mounted(){
+        //Limpar msg
+        //setTimeout(() => this.msg = "", 3000);
     }
 }
 </script>

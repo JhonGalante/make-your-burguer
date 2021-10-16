@@ -91,42 +91,8 @@
         "Salame",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 1
-    },
-    {
-      "nome": "Zeca",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Maria",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "Joaquina",
-      "carne": "Veggie burger",
-      "pao": "Pão Mexicano",
-      "opcionais": [
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 4
     }
   ]
 }
